@@ -1,0 +1,10 @@
+.app-container {
+  min-height: 300px;
+  max-width: 560px !important;
+  margin: 0 auto;
+  background: #fff;
+}
+
+.app-container .app-image--full {
+  width: 100%;
+}
