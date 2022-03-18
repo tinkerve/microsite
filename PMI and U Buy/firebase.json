@@ -1,0 +1,8 @@
+{
+  "hosting": {
+    "site": "pmi-and-u-refer",
+    "public": "/",
+    "cleanUrls": true,
+    "trailingSlash": false
+  }
+}

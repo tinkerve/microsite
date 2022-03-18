@@ -1,0 +1,8 @@
+{
+  "hosting": {
+    "site": "pmi-and-u-about",
+    "public": "/",
+    "cleanUrls": true,
+    "trailingSlash": false
+  }
+}
