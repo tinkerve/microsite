@@ -8,3 +8,35 @@
 .app-container .app-image--full {
   width: 100%;
 }
+
+.body-container--white-dashed {
+  border: dashed 2px #000;
+  border-image-source: url('../assets/images/LKclP.png') 2 round;
+  background-color: white;
+}
+
+.body-table {
+  border: 3px solid black;
+}
+.body-cell--yellow {
+  background-color: #ffc003;
+}
+
+.body-cell--lighter-pink {
+  background-color: #fff4e7;
+  padding: 48px 14px;
+}
+
+.body-cell--light-pink {
+  background-color: #ffe8c8;
+}
+
+.body-table th,
+td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 14px;
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height: 1.2em;
+}

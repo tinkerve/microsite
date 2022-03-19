@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "pmi-and-u-refer",
+    "site": "pmi-and-u-buy",
     "public": "/",
     "cleanUrls": true,
     "trailingSlash": false
