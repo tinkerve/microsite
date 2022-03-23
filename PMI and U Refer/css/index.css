@@ -1,5 +1,7 @@
 .app-container {
   min-height: 300px;
+  width: 560px !important;
+  min-width: 560px !important;
   max-width: 560px !important;
   margin: 0 auto;
   background: #fff;
